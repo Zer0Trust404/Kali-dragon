@@ -18,6 +18,18 @@ As a Computer Science student pursuing a career in cybersecurity, I wanted to ch
 
 This project documents my hands-on experience, technical challenges, troubleshooting process, and continued development of a personalized cybersecurity lab.
 
+
+## 📚 Project Documentation
+
+| Document | Description |
+|---|---|
+| [Installation Guide](INSTALLATION.md) | Chromebook to Kali Linux conversion process |
+| Hardware Specifications | Coming soon |
+| Troubleshooting Log | Coming soon |
+| Power Management Investigation | In progress |
+| Custom Scripts and Configurations | Coming soon |
+
+
 ## 💻 System Specifications
 
 | Component | Details |
