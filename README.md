@@ -1,4 +1,6 @@
 
+![Kali Dragon Banner](kali-dragon-banner.png)
+
 # 🐉 PROJECT: KALI DRAGON
 
 ### Trust Nothing. Verify Everything.
