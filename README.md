@@ -107,7 +107,11 @@ Project photographs and screenshots coming soon.
 
 ### Kali Dragon - Operational
 
-![Kali Dragon Desktop](kali-dragon-desktop.jpeg)
+
+<p align="center">
+  <img src="kali-dragon-desktop.jpeg" width="500" alt="Kali Dragon Desktop">
+</p>
+
 
 The Lenovo 100e Chromebook running Kali Linux after
 successful firmware modification, operating system
