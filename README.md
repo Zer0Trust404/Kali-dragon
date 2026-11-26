@@ -22,7 +22,7 @@ This project documents my hands-on experience, technical challenges, troubleshoo
 
 | Component | Details |
 |---|---|
-| Hardware | Repurposed Chromebook |
+| Hardware | Lenovo 100e Chromebook |
 | Board | Google Robo Rev3 / Coral |
 | Architecture | x86_64 |
 | Operating System | Kali Linux |
