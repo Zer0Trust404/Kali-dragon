@@ -26,7 +26,7 @@ This project documents my hands-on experience, technical challenges, troubleshoo
 | [Installation Guide](INSTALLATION.md) | Chromebook to Kali Linux conversion process |
 | [Hardware Specifications](HARDWARE.md) | Verified hardware, firmware, storage, and battery diagnostics |
 | [Troubleshooting Log](TROUBLESHOOTING.md) | Technical issues, diagnostic methods, resolutions, and lessons learned |
-| Power Management Investigation | In progress |
+| [Power Management Investigation](POWER-MANAGEMENT.md) | Battery diagnostics, controlled shutdown testing, and ongoing root cause investigation |
 | Custom Scripts and Configurations | Coming soon |
 
 
