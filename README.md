@@ -102,7 +102,17 @@ Project photographs and screenshots coming soon.
 
 ## ⚠️ Ethical Use
 
-This project is intended for educational purposes, personal cybersecurity research, and authorized security testing only.
+
+## 📸 Project Gallery
+
+### Kali Dragon - Operational
+
+![Kali Dragon Desktop](kali-dragon-desktop.jpeg)
+
+The Lenovo 100e Chromebook running Kali Linux after
+successful firmware modification, operating system
+installation, and desktop customization.
+
 
 ## 👤 About the Developer
 
